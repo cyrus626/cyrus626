@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyrus626
 - 👀 I’m interested in ICT
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on anywhere developers are available
+- 💞️ I’m looking forward to collaborate on anywhere developers are available
 - 📫 How to reach me my mail
 
 <!---
